@@ -1,0 +1,32 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    background-color:darkseagreen;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    color: darkseagreen;
+    text-shadow: 2px 2px 1px black;
+}
+p,
+li {
+    font-size: 15px;
+    line-height: 1,5;
+}
+a {
+    color: blue;
+}
+body {
+    background-color: white;
+    width: 1200px;
+    height: 550px;
+    margin: 20px auto;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
+  
